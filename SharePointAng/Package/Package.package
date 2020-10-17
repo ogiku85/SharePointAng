@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="bdea98b3-3c52-4fc3-9192-02e3b76c796e" 
+        solutionId="bdea98b3-3c52-4fc3-9192-02e3b76c796e" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePointAng"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="7eed1d72-192c-48e0-8b9a-e054ae03a613" />
+  </features>
+</package>
